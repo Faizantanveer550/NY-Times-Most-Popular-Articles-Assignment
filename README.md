@@ -18,6 +18,11 @@ You will also see any lint errors in the console.
 
 Launches the test runner in the interactive watch mode.\
 
+### `yarn test-app --coverage`
+
+It run tests for your application and also generate a code coverage report.
+A code coverage report shows how much of your codebase is actually executed by the tests. It helps identify areas of your code that might not be covered by tests and could potentially contain bugs.
+
 ### `yarn build-app`
 
 Builds the app for production to the `build` folder.\
